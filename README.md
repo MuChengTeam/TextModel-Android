@@ -3,4 +3,5 @@ The TextModel lib for Android, such as AndroidTextModel implements GetChars inte
 
 ## What is TextModel?
 A large text storage container, providing fast search, addition, deletion and modification functions.
+
 See also [TextModel](https://github.com/MuChengTeam/TextModel)
